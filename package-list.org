@@ -1,0 +1,46 @@
+* package-list
+done- init-loader 
+done- auto-async-byte-compile
+done- ddskk
+done- elpa
+- nihonngo info
+done- sticky.el
+done- emacsclient
+done- ffap.el
+done- uniquify
+done- tempbuf
+- github backup
+done- auto-install
+done- anything
+done- auto-complete-mode
+- color-moccur
+- moocur-edit
+- wgrep
+done- redo+
+- autoinsert
+done- undohist
+done- undo-tree
+done- point-undo
+- cssm-mode, auto-complete
+- js2-mode
+- perl
+- perl-completion
+- python-mode
+- flymake-mode
+- google transalate
+- main PC init.el diff
+* cleaning
+- floor
+- table
+- book
+- child-room
+- remove cans
+- clean entrance door
+- remove plastics
+- remove cardboard
+- exchange planter
+- clean kitchen
+- clean bathroom
+- clean wash basin
+* archlinux
+- Xorg
