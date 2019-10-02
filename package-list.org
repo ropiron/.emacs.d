@@ -3,30 +3,30 @@ done- init-loader
 done- auto-async-byte-compile
 done- ddskk
 done- elpa
-- nihonngo info
+done- nihonngo info
 done- sticky.el
 done- emacsclient
 done- ffap.el
 done- uniquify
 done- tempbuf
-- github backup
+done- github backup
 done- auto-install
 done- anything
 done- auto-complete-mode
-- color-moccur
-- moocur-edit
-- wgrep
+done- color-moccur
+done- moocur-edit
+done- wgrep
 done- redo+
 - autoinsert
 done- undohist
 done- undo-tree
 done- point-undo
-- cssm-mode, auto-complete
-- js2-mode
-- perl
-- perl-completion
-- python-mode
-- flymake-mode
+done- cssm-mode, auto-complete
+done- js2-mode
+done- perl
+done- perl-completion
+done- python-mode
+done- flymake-mode
 - google transalate
 - main PC init.el diff
 * cleaning

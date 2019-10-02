@@ -6,3 +6,11 @@ git clone https://github.com/emacs-jp/init-loader/blob/master/init-loader.el
 git clone https://github.com/emacs-jp/init-loader/master/init-loader.el
 git clone git://repo.or.cz/anything-config.git
 git clone https://github.com/emacs-jp/anything.git
+cd ..
+cd public_repos/
+git clone git://github.com/imakado/perl-completion.git
+ls
+wget http://rubikitch.com/f/141230072954.google-translate-2.el
+ls
+mv 141230072954.google-translate-2.el 25-google_translate.el
+ls
